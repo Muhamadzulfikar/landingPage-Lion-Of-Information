@@ -1,0 +1,56 @@
+.container-main{
+    background-image: url('./samson-ZGjbiukp_-A-unsplash.jpg');
+    background-size: cover;
+    height: 688px;
+    margin-top: 6.6%;
+    box-sizing: border-box;
+}
+
+.bg-color{
+    background-color: #2a579a99;
+    height: 688px;
+}
+
+.caption{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+.bullet{
+    width: 50%;
+    height: 24.54px;
+    border-radius: 50%;
+    background-color: #C4C4C4;
+    margin-right: 52.46px;
+    margin-bottom: 12%;
+}
+
+.bullet:nth-child(2){
+    background-color: #2A579A;
+}
+
+.title{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    color: white;
+}
+
+.button{
+    margin-top: 3%;
+    margin-right: 6%;
+    width: 35%;
+    height: 40px;
+    font-size: 18px;
+}
+
+.button-secondary{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+}
+
+.button-secondary img{
+    margin-right: 5%;
+}

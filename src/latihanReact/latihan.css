@@ -1,0 +1,35 @@
+/* body{
+    background-color: #eee;
+} */
+
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color: lightseagreen;
+    border-radius: 5px;
+} */
+
+/* .button-listener{
+    width: 150px;
+    height: 40px;
+    background-color: lightseagreen;
+    color: white;
+    margin: 50px 30px;
+} */
+
+h1{
+    text-align: center;
+}
+
+.todoList{
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding-right: 50px;
+}
+
+.todoList ul li{
+    border: 1px solid black;
+    margin-top: 20px;
+    list-style: none;
+}

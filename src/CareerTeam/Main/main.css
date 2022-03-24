@@ -1,0 +1,32 @@
+.main-section{
+    margin-top: 6.6%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 8%;
+    padding-right: 3%;
+    align-items: center;
+}
+
+.main-section h1{
+    font-weight: 600;
+    font-size: 36px;
+    color: #2A579A;
+    line-height: 54px;
+}
+
+.main-section p{
+    font-size: 20px;
+    color: #616161;
+    margin-top: -5%;
+}
+
+.main-section button{
+    width: 30%;
+    height: 46.01px;
+    margin-right: 6%;
+    background-color: #2A579A;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 2%;
+}

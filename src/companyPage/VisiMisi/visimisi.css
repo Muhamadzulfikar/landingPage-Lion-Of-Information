@@ -1,0 +1,137 @@
+.container-visiMisi{
+    margin-top: 4%;
+    margin-left: 3.8%;
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+}
+
+.visimisi{
+    font-family: Raleway;
+}
+
+.visimisi h1{
+    font-size: 24px;
+}
+
+.visimisi p{
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 58px;
+    color: #828282;
+    font-weight: 500;
+    margin-bottom: 3%;
+}
+
+.visimisi button{
+    width: 30%;
+    height: 48px;
+    background: #FFFFFF;
+    border: 2px solid #23467C;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 20px rgba(203, 203, 203, 0.25);
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 5%;
+    cursor: pointer;
+}
+
+.line{
+    width: 3px;
+    background-color: #C4C4C4;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
+
+.about{
+    width: 85%;
+    height: 327px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    background-image: url('./organitiation.svg');
+    margin-top: -25%;
+    margin-left: 2%;
+}
+
+.bg-red{
+    background-color: #EB5757;
+    height: 327px;
+    border-radius: 20px;
+    mix-blend-mode: multiply;
+}
+
+.about-caption{
+    width: 45%;
+    height: 327px;
+    color: white;
+    position: absolute;
+    top: 105%;
+    right: 4%;
+}
+
+.about-caption h1{
+    font-size: 24px;
+}
+
+.about-caption p{
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+}
+
+.about-caption button{
+    font-size: 20px;
+    background: transparent;
+    border: none;
+    color: inherit;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.about-caption img{
+    margin-left: 10px;
+}
+
+.mainPower{
+    display: grid;
+    grid-template-columns: 0.3fr 1fr 0.3fr 1fr;
+    margin-right: 1%;
+    margin-top: 5%;
+    font-family: Raleway;
+    align-items: center;
+}
+
+.mainPower h1{
+    font-size: 20px;
+    font-weight: 600;
+    color: #333333;
+}
+
+.mainPower p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #4F4F4F;
+}
+
+.mediaCoverage{
+    margin-top: 7%;
+}
+
+.mediaCoverage h1{
+    font-size: 24px;
+    color: #333333;
+    font-weight: 600;
+}
+
+.underline-mediaCoverage{
+    width: 27%;
+    height: 3px;
+    background: #23467C;
+}
+
+.mediaCoverage-brand{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,50 @@
+.navbar{
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 1% 2% 0% 6%;
+  font-size: 16px;
+  background-color: white;
+  z-index: 1;
+}
+
+.right-content img{
+  margin-right: 8%;
+}
+
+.right-content a{
+  margin-right: 6%;
+  cursor: pointer;
+  color:  #4F4F4F;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.right-content button{
+  width: 250.76px;
+  height: 29px;
+  color: white;
+  font-size: inherit;
+}
+
+.navbar-career{
+  color: #2A579A;
+  margin-left: 3%;
+}
+
+.bg-darkblue{
+  background-color: #2A579A;
+}
+
+button{
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.flex{
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,54 @@
+.aboutUs{
+    margin-top: 5%;
+    margin-left: 8%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5%;
+}
+
+.aboutUs-header{
+    font-size: 42px;
+    font-size: Raleway;
+    margin-bottom: 5%;
+}
+
+.nilaiKami{
+    font-family: Raleway;
+    color: #828282;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.itemBenefit{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.itemBenefit div{
+    margin-right: 5%;
+}
+
+.itemBenefit img{
+    width: 175px;
+    height: 175px;
+}
+.itemBenefit h1{
+    font-size: 18px;
+    color: #333333;
+    font-family: Raleway;
+}
+
+.itemBenefit p{
+    font-size: 18px;
+    color: #4F4F4F;
+    font-family: Raleway;
+    line-height: 28px;
+}
+
+.nilaiKami-image img{
+    width: 85px;
+}
